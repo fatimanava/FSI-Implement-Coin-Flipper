@@ -1,10 +1,13 @@
 // TODO: Declare any global variables we need
-
+let headRolls = 0
+let tailRolls = 0
 
 document.addEventListener('DOMContentLoaded', function () {
     // This is just a sanity check to make sure your JavaScript script is getting loaded
     // You can remove it once you see it in your browser console in the developer tools
     console.log('Hi')
+    // create different actions for heads and tails
+  
 
     // TODO: Add event listener and handler for flip and clear buttons
 
